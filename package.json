@@ -1,0 +1,30 @@
+{
+	"name": "chromexty",
+	"version": "0.0.0",
+	"description": "CLI for managing Chrome extensions — load, pack, and launch with a single command",
+	"license": "MIT",
+	"type": "module",
+	"bin": {
+		"chromexty": "./dist/index.js"
+	},
+	"files": [
+		"dist"
+	],
+	"scripts": {
+		"build": "tsup",
+		"dev": "tsup --watch",
+		"chromexty": "node dist/index.js",
+		"test": "vitest"
+	},
+	"dependencies": {
+		"commander": "^13.1.0",
+		"ora": "^8.2.0",
+		"picocolors": "^1.1.1"
+	},
+	"devDependencies": {
+		"@types/node": "^22.13.4",
+		"tsup": "^8.4.0",
+		"typescript": "^5.7.3",
+		"vitest": "^3.0.5"
+	}
+}
