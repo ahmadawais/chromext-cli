@@ -1,5 +1,11 @@
 # Changelog
 
+## [0.0.3](https://github.com/ahmadawais/chromext-cli/compare/0.0.2...0.0.3) (2026-02-13)
+
+### Bug Fixes
+
+* cover ([d37b002](https://github.com/ahmadawais/chromext-cli/commit/d37b002e9931d403c5bc7a37fd1e486f8b37f1ae))
+
 ## [0.0.2](https://github.com/ahmadawais/chromext-cli/compare/0.0.1...0.0.2) (2026-02-13)
 
 ### Bug Fixes
