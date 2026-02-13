@@ -1,6 +1,6 @@
 {
 	"name": "chromexty",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "CLI for managing Chrome extensions — load, pack, and launch with a single command",
 	"license": "MIT",
 	"type": "module",
