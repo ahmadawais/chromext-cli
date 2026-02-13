@@ -4,6 +4,10 @@
 	"description": "CLI for managing Chrome extensions — load, pack, and launch with a single command",
 	"license": "MIT",
 	"type": "module",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ahmadawais/chromext-cli.git"
+	},
 	"bin": {
 		"chromexty": "./dist/index.js"
 	},

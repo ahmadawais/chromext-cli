@@ -1,6 +1,6 @@
 # chromexty
 
-![chromexty cover](./.github/cover.png)
+![chromexty cover](https://raw.githubusercontent.com/ahmadawais/chromext-cli/main/.github/cover.svg)
 
 `chromexty` is a macOS-first CLI for Chrome extension workflows. It helps you quickly load unpacked extensions, package them as `.crx`, and launch Chrome with an extension preloaded.
 
